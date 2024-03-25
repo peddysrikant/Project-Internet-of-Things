@@ -1,4 +1,4 @@
-**Intuitive Hand Gesture Control**
+**Intuitive Hand Gesture Control for Wheelchair Maneuverability**
 
 By including a Micro-Electro-Mechanical Systems (MEMS) accelerometer into the system, this project presents a novel method of controlling wheelchairs. A key component is the MEMS accelerometer, which enables users to control the wheelchair's movement with slight hand movements. The goal of the project is to create an intuitive and responsive control system that will improve mobility for those with physical limitations.
 
